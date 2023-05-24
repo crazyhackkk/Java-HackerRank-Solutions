@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class test {
+//Copy karta hai Badtamij
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         final Deque<Integer> deque = new ArrayDeque<Integer>();
